@@ -151,13 +151,12 @@ require("dotenv").config();
 
      * Edit the text in random.txt to test out the feature for movie-this and concert-this.
 
-- Use filename-this name to find the specific information. 
-    (i.e movie-this are we there yet)
+- Use filename-this name to find the specific information. (i.e movie-this are we there yet)
 ![liriappmovie](https://user-images.githubusercontent.com/50628151/63064704-9132a080-bed0-11e9-861f-d8565e82b914.PNG)
 
 ![liriappmovie2](https://user-images.githubusercontent.com/50628151/63110964-989e8c00-bf5a-11e9-9e1f-5f833629cb5a.PNG)
 
- (i.e spotify-this thank u next)
+(i.e spotify-this thank u next)
 
 ![liriappspotify2](https://user-images.githubusercontent.com/50628151/63064723-b2938c80-bed0-11e9-8cfa-0d8ee7965e6c.PNG)
 
